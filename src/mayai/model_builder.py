@@ -1,6 +1,6 @@
 import torch
-from tqdm import tqdm
-# from tqdm import tqdm_notebook as tqdm
+# from tqdm import tqdm
+from tqdm import tqdm_notebook as tqdm
 from mayai.utils import commons
 import logging as log
 
